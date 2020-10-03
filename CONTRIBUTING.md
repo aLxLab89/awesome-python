@@ -1,5 +1,9 @@
 # Contributing
 
+# Bitte von Vina: ein Mail adresse ienfügen
+
+"Bitte sende eine Email an: liebings_kollege@firma.com"
+
 Your contributions are always welcome!
 
 ## Guideline
